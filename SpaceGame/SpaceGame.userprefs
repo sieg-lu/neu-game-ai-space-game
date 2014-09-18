@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Sprite.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SceneManager.cs" Line="178" Column="48" />
+      <File FileName="Assets\Scripts\PathNodesManager.cs" Line="86" Column="8" />
+      <File FileName="Assets\Scripts\Sprite.cs" Line="173" Column="50" />
+      <File FileName="Assets\Scripts\SpriteManager.cs" Line="93" Column="110" />
+      <File FileName="Assets\Scripts\Utility.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Scripts\Sprite.cs" line="83" offsetX="732" offsetY="1312" expression="targetPos" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
