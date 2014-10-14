@@ -1,0 +1,5 @@
+R# version: 5.1.1753.4
+assembly UnityEngine, Version=0.0.0.0, Culture=neutral
+  file D:\Unity\Editor\Data\Managed\UnityEngine.dll mtime 2013/3/10 7:22:12
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 2013/4/23 22:57:26

@@ -1,0 +1,10 @@
+D:\Unity\Projects\neu-game-ai-space-game\SpaceGame\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity\Projects\neu-game-ai-space-game\SpaceGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity\Projects\neu-game-ai-space-game\SpaceGame\Temp\bin\Debug\UnityEditor.dll
+D:\Unity\Projects\neu-game-ai-space-game\SpaceGame\Temp\bin\Debug\UnityEngine.dll
+D:\Unity\Projects\neu-game-ai-space-game\SpaceGame\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity\Projects\neu-game-ai-space-game\SpaceGame\Temp\bin\Debug\nunit.framework.dll
+D:\Unity\Projects\neu-game-ai-space-game\SpaceGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Unity\Projects\neu-game-ai-space-game\SpaceGame\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\Unity\Projects\neu-game-ai-space-game\SpaceGame\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity\Projects\neu-game-ai-space-game\SpaceGame\obj\Debug\Assembly-CSharp-firstpass.pdb
